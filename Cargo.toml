@@ -1,7 +1,10 @@
 [package]
 name = "bhtmp"
+description = "A package to read .bhtmp files."
+license = "GNU GPLv3"
 version = "0.1.0"
 edition = "2021"
+authors = ["asciiboi"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
