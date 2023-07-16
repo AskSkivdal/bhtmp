@@ -2,7 +2,7 @@
 A reader for the bhtmp file format.
 
 ## Usage
-```rs
+```rust
 use bhtmp::Bhtmp;
 
 let map: Bhtmp = bhtmp::Bhtmp::new(
