@@ -2,7 +2,7 @@
 name = "bhtmp"
 description = "A package to read .bhtmp files."
 license = "GPL-3.0-only"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 authors = ["asciiboi"]
 repository = "https://github.com/asciiboi/bhtmp/"
